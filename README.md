@@ -19,7 +19,7 @@ Data Science projects
 * Predecir el precio resultado de las casas y generar visualizaciones del precio real y del precio predicho.
 
 
-![](/main/arbol_decision.PNG)
+![](/arbol_decision.PNG)
 
 
 # [Proyecto 3:  Predicción de Precios de casas (Random Forest): Información general](https://github.com/ArielContrerasfer/Ariel-Portfolio/blob/main/Predicci%C3%B3n_de_precios_con_Random_Forest.ipynb)
@@ -28,4 +28,4 @@ Data Science projects
 * Predecir el precio resultado de las casas y generar visualizaciones del precio real y del precio predicho.
 
 
-![](/main/random_forest.PNG)
+![](/random_forest.PNG)
