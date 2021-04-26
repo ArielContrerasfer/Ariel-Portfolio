@@ -26,6 +26,6 @@ Data Science projects
 * Realizar un análisis exploratorio de la data.
 * Crear una herramienta que permita predecir precios a través de un modelo de Random Forest.
 * Predecir el precio resultado de las casas y generar visualizaciones del precio real y del precio predicho.
-* 
 
-![](https://github.com/ArielContrerasfer/Ariel-Portfolio/blob/main/randamforest.PNG)
+
+![](https://github.com/ArielContrerasfer/Ariel-Portfolio/blob/main/random_forest.PNG)
