@@ -28,4 +28,4 @@ Data Science projects
 * Predecir el precio resultado de las casas y generar visualizaciones del precio real y del precio predicho.
 * 
 
-![](https://github.com/ArielContrerasfer/Ariel-Portfolio/blob/main/randomforest.PNG)
+![](https://github.com/ArielContrerasfer/Ariel-Portfolio/blob/main/randamforest.PNG)
