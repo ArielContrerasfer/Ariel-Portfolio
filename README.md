@@ -17,7 +17,7 @@ Data Science projects
 * Optimizar el modelo a través de sobreajuste y subajuste de los nodos.
 * Predecir el precio resultado de las casas y generar visualizaciones del precio real y del precio predicho.
 
-#[Proyecto 3:  Predicción de Precios de casas (Random Forest): Información general:](https://github.com/ArielContrerasfer/Ariel-Portfolio/blob/main/Prediccion_de_precios_Automoviles.ipynb)
+#[Proyecto 3:  Predicción de Precios de casas (Random Forest): Información general:](https://github.com/ArielContrerasfer/Ariel-Portfolio/blob/main/Predicci%C3%B3n_de_precios_con_Random_Forest.ipynb)
 * Realizar un análisis exploratorio de la data.
 * Crear una herramienta que permita predecir precios a través de un modelo de Random Forest.
 * Predecir el precio resultado de las casas y generar visualizaciones del precio real y del precio predicho.
