@@ -11,7 +11,7 @@ Data Science projects
 
 
 
-#[Proyecto 2:  Predicción de Precios de casas (Árbol de decisiones): Información general:](https://github.com/ArielContrerasfer/Ariel-Portfolio/blob/main/Prediccion_de_precios_Automoviles.ipynb)
+#[Proyecto 2:  Predicción de Precios de casas (Árbol de decisiones): Información general:](https://github.com/ArielContrerasfer/Ariel-Portfolio/blob/main/Predicci%C3%B3n_de_precios_con_modelo_de_%C3%81rbol_de_Decisiones.ipynb)
 * Realizar un análisis exploratorio de la data.
 * Crear una herramienta que permita predecir precios a través de un modelo de Árbol de Decisiones.
 * Optimizar el modelo a través de sobreajuste y subajuste de los nodos.
