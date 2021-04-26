@@ -9,6 +9,7 @@ Data Science projects
 * Predecir el precio resultado de los automóviles y generar visualizaciones del precio real y del precio predicho.
 
 
+
 ![](/regresion_lineal.PNG)
 
 
@@ -19,6 +20,7 @@ Data Science projects
 * Predecir el precio resultado de las casas y generar visualizaciones del precio real y del precio predicho.
 
 
+
 ![](/arbol_decision.PNG)
 
 
@@ -26,6 +28,7 @@ Data Science projects
 * Realizar un análisis exploratorio de la data.
 * Crear una herramienta que permita predecir precios a través de un modelo de Random Forest.
 * Predecir el precio resultado de las casas y generar visualizaciones del precio real y del precio predicho.
+
 
 
 ![](/random_forest.PNG)
