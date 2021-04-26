@@ -9,7 +9,7 @@ Data Science projects
 * Predecir el precio resultado de los automóviles y generar visualizaciones del precio real y del precio predicho.
 
 
-![](/main/regresion_lineal.PNG)
+![](/regresion_lineal.PNG)
 
 
 # [Proyecto 2:  Predicción de Precios de casas (Árbol de decisiones): Información general](https://github.com/ArielContrerasfer/Ariel-Portfolio/blob/main/Predicci%C3%B3n_de_precios_con_modelo_de_%C3%81rbol_de_Decisiones.ipynb)
