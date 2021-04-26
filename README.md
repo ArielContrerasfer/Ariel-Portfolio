@@ -9,7 +9,7 @@ Data Science projects
 * Predecir el precio resultado de los automóviles y generar visualizaciones del precio real y del precio predicho.
 
 
-![](https://github.com/ArielContrerasfer/Ariel-Portfolio/blob/main/regresion_lineal.PNG)
+![](/main/regresion_lineal.PNG)
 
 
 # [Proyecto 2:  Predicción de Precios de casas (Árbol de decisiones): Información general](https://github.com/ArielContrerasfer/Ariel-Portfolio/blob/main/Predicci%C3%B3n_de_precios_con_modelo_de_%C3%81rbol_de_Decisiones.ipynb)
@@ -19,7 +19,7 @@ Data Science projects
 * Predecir el precio resultado de las casas y generar visualizaciones del precio real y del precio predicho.
 
 
-![](https://github.com/ArielContrerasfer/Ariel-Portfolio/blob/main/arbol_decision.PNG)
+![](/main/arbol_decision.PNG)
 
 
 # [Proyecto 3:  Predicción de Precios de casas (Random Forest): Información general](https://github.com/ArielContrerasfer/Ariel-Portfolio/blob/main/Predicci%C3%B3n_de_precios_con_Random_Forest.ipynb)
@@ -28,4 +28,4 @@ Data Science projects
 * Predecir el precio resultado de las casas y generar visualizaciones del precio real y del precio predicho.
 
 
-![](https://github.com/ArielContrerasfer/Ariel-Portfolio/blob/main/random_forest.PNG)
+![](/main/random_forest.PNG)
