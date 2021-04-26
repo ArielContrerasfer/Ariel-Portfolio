@@ -4,9 +4,9 @@ Data Science projects
 
 # [Proyecto 1:  Predicción de Precios de Automóviles (Regresión lineal): Información general](https://github.com/ArielContrerasfer/Ariel-Portfolio/blob/main/Prediccion_de_precios_Automoviles.ipynb)
 * Realizar un análisis exploratorio extensivo de la data.
-* Crear una herramienta que permita predecir precios a través de análisis de Regresión Lineal simple como de Regresión Lineal Multivariado.
+* Crear una herramienta que permita predecir precios a través de análisis de Regresión Lineal simple como de Regresión Lineal Multivariada.
 * Optimizar el modelo a través del análisis de P-Value, para seleccionar las variables independientes que mejor expliquen la variable dependiente.
-* Predecir el precio resultado de los automóviles y generar visualizaciones del precio real y del precio predicho.
+* Predecir el precio resultado de los automóviles y generar visualizaciones del precio de testeo y del precio predicho.
 
 
 
