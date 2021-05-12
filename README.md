@@ -38,4 +38,4 @@ Data Science projects
 
 * Visualizacion que muestra la diferencia de Salarios por Universidad en USA, por Estado, Tipo de Universidad, comparación de sueldo según experiencia laboral y promedio salarial por institución.
 
-![](/SalariosUSA.PNG)
+![](/SalariosUSA1.PNG)
