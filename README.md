@@ -27,6 +27,7 @@ Data Science projects
 # [Proyecto 3:  Predicción de Precios de casas (Random Forest): Información general](https://github.com/ArielContrerasfer/Ariel-Portfolio/blob/main/Predicci%C3%B3n_de_precios_con_Random_Forest.ipynb)
 * Realizar un análisis exploratorio de la data.
 * Crear una herramienta que permita predecir precios a través de un modelo de Random Forest.
+* Optimizar el modelo a traves de la eliminacion de Outliers.
 * Predecir el precio resultado de las casas y generar visualizaciones del precio real y del precio predicho.
 
 
