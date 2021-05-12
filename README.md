@@ -36,6 +36,6 @@ Data Science projects
 
 # [Proyecto 4: Visualización con Tableau: Información general](https://public.tableau.com/profile/arielcontreras#!/vizhome/TrabajoFinalSalariosporUniversidadUSA/Dashboard1)
 
-* Visualizacion que muestra la diferencia de Salarios por Universidad en USA, por Estado, Tipo de Universidad, comparación de sueldo según experiencia laboral y promedio salarial por institución.
+* Visualizacion con Tableau que muestra la diferencia de Salarios por Universidad en USA, por Estado, Tipo de Universidad, comparación de sueldo según experiencia laboral y promedio salarial por institución.
 
 ![](/SalariosUSA1.PNG)
