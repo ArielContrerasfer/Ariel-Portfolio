@@ -37,6 +37,15 @@ Data Science projects
 
 # [Proyecto 4: Visualización con Tableau: Información general](https://public.tableau.com/profile/arielcontreras#!/vizhome/TrabajoFinalSalariosporUniversidadUSA/Dashboard1)
 
-* Visualizacion con Tableau que muestra la diferencia de Salarios por Universidad en USA, por Estado, Tipo de Universidad, comparación de sueldo según experiencia laboral y promedio salarial por institución.
+* visualización con Tableau que muestra la diferencia de Salarios por Universidad en USA, por Estado, Tipo de Universidad, comparación de sueldo según experiencia laboral y promedio salarial por institución.
 
 ![](/SalariosUSA1.PNG)
+
+
+# [Proyecto 5:  Predicción de Derrames Cerebrales (XGBoost Classifier): Información general](https://github.com/ArielContrerasfer/Ariel-Portfolio/blob/main/Predicci%C3%B3n_de_derrames_cerebrales.ipynb)
+* Realizar un análisis exploratorio de la data.
+* Crear una herramienta que permita predecir derrames cerebrales a través de un modelo de Clasificación.
+* Optimizar el modelo a través de imputación de variables numéricas y categóricas.
+* Predecir según las variables independientes si se tendrá o no un derrame cerebral.
+
+![](/xgboost_classifier.PNG)
