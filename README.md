@@ -49,3 +49,13 @@ Data Science projects
 * Predecir según las variables independientes si se tendrá o no un derrame cerebral.
 
 ![](/xgboost_classifier.PNG)
+
+
+# [Proyecto 6:  Optimización de precio de productos utilizando modelo de Regresión Lineal: Información general](https://github.com/ArielContrerasfer/Ariel-Portfolio/blob/main/Optimizaci%C3%B3n_de_precio.ipynb)
+* Realizar un análisis exploratorio de la data.
+* Crear una herramienta que permita definir el precio optimo, para maximizar ingresos, a través de un modelo de Regresión Lineal.
+
+
+![](/Optimización_Precios.PNG)
+
+
