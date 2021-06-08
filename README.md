@@ -59,3 +59,12 @@ Data Science projects
 ![](/Optimización_Precios.PNG)
 
 
+# [Proyecto 7:  Predicción de Ventas de Productos utilizando modelos de Regresión: Información general](https://github.com/ArielContrerasfer/Ariel-Portfolio/blob/main/Predicci%C3%B3n_de_Ventas_de_Productos.ipynb)
+* Se realiza y analizan distintas hipótesis de trabajo.
+* Se hace una exploración de los datos e imputación de valores nulos.
+* Se realiza Feature Engineering, para preparar nuestros datos.
+* Normalizamos y estandarizamos nuestros datos y los evaluamos con modelos de regresión (Random Forest y XGboost), con el fin de predecir las ventas futuras de cada producto y tienda.
+
+
+![](/prediccion_ventas.PNG)
+
