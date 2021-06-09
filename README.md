@@ -69,7 +69,12 @@ Data Science projects
 ![](/prediccion_ventas.PNG)
 
 
-# [Proyecto 8:  Predicción de Ventas de Productos utilizando modelos de Regresión: Información general](https://github.com/ArielContrerasfer/Ariel-Portfolio/blob/main/Reduccion%2C_Seleccion%2C_Clustering_y_Clasificacion.ipynb)
+# [Proyecto 8:  Clusterización, Clasificación binaria y Reducción de dimensionalidad (PCA): Información general](https://github.com/ArielContrerasfer/Ariel-Portfolio/blob/main/Reduccion%2C_Seleccion%2C_Clustering_y_Clasificacion.ipynb)
+* Descripción del Dataset.
+* Clustering con K-Means y data Wrangling de los datos.
+* Realizar una herramienta de clasificación de los datos con Random Forest.
+* Realizar una herramienta de clasificación de los datos con Regresión Logística.
+* Utilizar Reducción de Dimensionalidad (PCA) con Random Forest y Regresión Logística, para finalmente evaluar los resultados.
 
 
 ![](/kmeans.PNG)
