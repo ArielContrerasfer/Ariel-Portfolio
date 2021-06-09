@@ -68,3 +68,8 @@ Data Science projects
 
 ![](/prediccion_ventas.PNG)
 
+
+# [Proyecto 8:  Predicción de Ventas de Productos utilizando modelos de Regresión: Información general](https://github.com/ArielContrerasfer/Ariel-Portfolio/blob/main/Reduccion%2C_Seleccion%2C_Clustering_y_Clasificacion.ipynb)
+
+
+![](/kmeans.PNG)
