@@ -83,5 +83,6 @@ Data Science projects
 # [Proyecto 9:  Forecasting de Series de tiempo con modelo Autorregresivo Integrado de Promedio Móvil (ARIMA): Información general](https://github.com/ArielContrerasfer/Ariel-Portfolio/blob/main/Forescasting__Series_de_Tiempo.ipynb)
 * Realizar un análisis exploratorio de la data.
 * Crear una herramienta que permita generar un Forecast de las ventas de autos futuras, a través de un modelo Autorregresivo Integrado de Promedio Móvil.
+* Mejorar el modelo a traves de la elección optima de parametros p, d, q.
 
 ![](/ARIMA.PNG)
