@@ -90,7 +90,7 @@ Data Science projects
 
 # [Proyecto 10:  Predicción de demanda de arriendo de autos en Chile, con FB Prophet](https://github.com/ArielContrerasfer/Ariel-Portfolio/blob/main/FB_Prophet.ipynb)
 * Realizar un análisis exploratorio de la data.
-* Crear una herramienta que permita generar un Forecast de la demanda de arriiendo de autos futuras, utilizando data de las tendencias de busqueda de internet y FB Prophet.
+* Crear una herramienta que permita generar un Forecast de demanda de arriendo de autos futura, utilizando data de tendencias de busqueda de internet y FB Prophet.
 * Mejorar el modelo a traves de la elección de distintos intervalos de tiempo.
 
 ![](/fb_prophet.PNG)
