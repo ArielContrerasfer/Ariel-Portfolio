@@ -24,6 +24,7 @@ Data Science projects
 
 ![](/arbol_decision.PNG)
 
+<br>
 
 # [Proyecto 3:  Predicción de Precios de casas (Random Forest): Información general](https://github.com/ArielContrerasfer/Ariel-Portfolio/blob/main/Predicci%C3%B3n_de_precios_con_Random_Forest.ipynb)
 * Realizar un análisis exploratorio de la data.
@@ -35,6 +36,7 @@ Data Science projects
 
 ![](/random_forest.PNG)
 
+<br>
 
 # [Proyecto 4: Visualización con Tableau: Información general](https://public.tableau.com/profile/arielcontreras#!/vizhome/TrabajoFinalSalariosporUniversidadUSA/Dashboard1)
 
@@ -42,6 +44,7 @@ Data Science projects
 
 ![](/SalariosUSA1.PNG)
 
+<br>
 
 # [Proyecto 5:  Predicción de Derrames Cerebrales (XGBoost Classifier): Información general](https://github.com/ArielContrerasfer/Ariel-Portfolio/blob/main/Predicci%C3%B3n_de_derrames_cerebrales.ipynb)
 * Realizar un análisis exploratorio de la data.
@@ -51,6 +54,7 @@ Data Science projects
 
 ![](/xgboost_classifier.PNG)
 
+<br>
 
 # [Proyecto 6:  Optimización de precio de productos utilizando modelo de Regresión Lineal: Información general](https://github.com/ArielContrerasfer/Ariel-Portfolio/blob/main/Optimizaci%C3%B3n_de_precio.ipynb)
 * Realizar un análisis exploratorio de la data.
@@ -59,6 +63,7 @@ Data Science projects
 
 ![](/Optimización_Precios.PNG)
 
+<br>
 
 # [Proyecto 7:  Predicción de Ventas de Productos utilizando modelos de Regresión: Información general](https://github.com/ArielContrerasfer/Ariel-Portfolio/blob/main/Predicci%C3%B3n_de_Ventas_de_Productos.ipynb)
 * Se realiza y analizan distintas hipótesis de trabajo.
@@ -69,6 +74,7 @@ Data Science projects
 
 ![](/prediccion_ventas.PNG)
 
+<br>
 
 # [Proyecto 8:  Clusterización, Clasificación binaria y Reducción de dimensionalidad (PCA): Información general](https://github.com/ArielContrerasfer/Ariel-Portfolio/blob/main/Reduccion%2C_Seleccion%2C_Clustering_y_Clasificacion.ipynb)
 * Descripción del Dataset.
@@ -80,6 +86,7 @@ Data Science projects
 
 ![](/kmeans.PNG)
 
+<br>
 
 # [Proyecto 9:  Forecasting de Series de tiempo con modelo Autorregresivo Integrado de Promedio Móvil (ARIMA): Información general](https://github.com/ArielContrerasfer/Ariel-Portfolio/blob/main/Forescasting__Series_de_Tiempo.ipynb)
 * Realizar un análisis exploratorio de la data.
@@ -88,6 +95,7 @@ Data Science projects
 
 ![](/ARIMA.PNG)
 
+<br>
 
 # [Proyecto 10:  Predicción de demanda de arriendo de autos en Chile, con FB Prophet](https://github.com/ArielContrerasfer/Ariel-Portfolio/blob/main/FB_Prophet.ipynb)
 * Realizar un análisis exploratorio de la data.
@@ -96,6 +104,7 @@ Data Science projects
 
 ![](/fb_prophet.PNG)
 
+<br>
 
 # [Proyecto 11:  Modelo estadistico de la Elasticidad Precio de la Demanda](https://github.com/ArielContrerasfer/Ariel-Portfolio/blob/main/Elasticidad_Precio_de_la_Demanda.ipynb)
 * Realizar un análisis exploratorio de la data.
@@ -103,3 +112,5 @@ Data Science projects
 * Utilizar el modelo para obtener la Elasticidad Precio de la Demanda y ver el impacto de esta.
 
 ![](/Elasticidad.PNG)
+
+<br>
