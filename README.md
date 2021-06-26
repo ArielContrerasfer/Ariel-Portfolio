@@ -96,3 +96,9 @@ Data Science projects
 ![](/fb_prophet.PNG)
 
 
+# [Proyecto 11:  Modelo estadistico de la Elasticidad Precio de la Demanda](https://github.com/ArielContrerasfer/Ariel-Portfolio/blob/main/Elasticidad_Precio_de_la_Demanda.ipynb)
+* Realizar un análisis exploratorio de la data.
+* Evaluación del modelo con CCPR, Minimo cuadrado recursivo y CUSUM.
+* Utilizar el modelo para obtener la Elasticidad Precio de la Demanda y ver el impacto de esta.
+
+![](/Elasticidad.PNG)
