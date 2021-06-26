@@ -12,6 +12,7 @@ Data Science projects
 
 ![](/regresion_lineal.PNG)
 
+(<br>)
 
 # [Proyecto 2:  Predicción de Precios de casas (Árbol de decisiones): Información general](https://github.com/ArielContrerasfer/Ariel-Portfolio/blob/main/Predicci%C3%B3n_de_precios_con_modelo_de_%C3%81rbol_de_Decisiones.ipynb)
 * Realizar un análisis exploratorio de la data.
