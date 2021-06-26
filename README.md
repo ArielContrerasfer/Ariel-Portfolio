@@ -52,7 +52,7 @@ Data Science projects
 * Optimizar el modelo a través de imputación de variables numéricas y categóricas.
 * Predecir según las variables independientes si se tendrá o no un derrame cerebral.
 
-![](/xgboost_classifier.PNG)
+![](/XGBoost.PNG)
 
 <br>
 
