@@ -61,7 +61,7 @@ Data Science projects
 * Crear una herramienta que permita definir el precio optimo, para maximizar ingresos, a través de un modelo de Regresión Lineal.
 
 
-![](/Optimización_Precios.PNG)
+![](/precio_optimo.PNG)
 
 <br>
 
