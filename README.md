@@ -72,7 +72,7 @@ Data Science projects
 * Normalizamos y estandarizamos nuestros datos y los evaluamos con modelos de regresión (Random Forest y XGboost), con el fin de predecir las ventas futuras de cada producto y tienda.
 
 
-![](/prediccion_ventas.PNG)
+![](/prediccion_venta1.PNG)
 
 <br>
 
